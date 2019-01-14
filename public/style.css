@@ -1,0 +1,36 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  color: #414141;
+  background-color: #EEEEEE;
+}
+  h2,h3 {
+  font-size: 36px;
+  font-family: "Helvetica", "Arial", sans-serif;
+  color: #FFA500;
+}
+
+
+#bar{
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+
+}
+
+#bar-input{
+  width: auto;
+  margin: 10px auto;
+
+}
+#booker{
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+
+}
+#booker-input{
+  width: auto;
+  margin: 10px auto;
+
+}
